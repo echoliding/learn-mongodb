@@ -1,0 +1,17 @@
+{
+    "name": "liding/learn-mongodb",
+    "description": "learn mongodb",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "liding",
+            "email": "liding@yahoo.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4" :{
+            "mongodb\\":"src/mongodb"
+        }
+    }
+}
